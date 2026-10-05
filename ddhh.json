@@ -1,0 +1,103 @@
+[
+  {
+    "documento": "Declaración Universal de Derechos Humanos",
+    "articulo": "1",
+    "titulo": "Igualdad y dignidad",
+    "temas": [
+      "igualdad",
+      "dignidad",
+      "libertad",
+      "derechos humanos"
+    ],
+    "texto": "Todos los seres humanos nacen libres e iguales en dignidad y derechos.",
+    "explicacion": "Reconoce la libertad e igualdad en dignidad y derechos de todas las personas."
+  },
+  {
+    "documento": "Declaración Universal de Derechos Humanos",
+    "articulo": "2",
+    "titulo": "No discriminación",
+    "temas": [
+      "igualdad",
+      "discriminación",
+      "derechos humanos"
+    ],
+    "texto": "Toda persona tiene todos los derechos y libertades proclamados en la Declaración, sin distinción alguna.",
+    "explicacion": "Establece el principio de no discriminación en el disfrute de los derechos proclamados."
+  },
+  {
+    "documento": "Declaración Universal de Derechos Humanos",
+    "articulo": "3",
+    "titulo": "Vida, libertad y seguridad",
+    "temas": [
+      "vida",
+      "libertad",
+      "seguridad",
+      "derecho a la vida"
+    ],
+    "texto": "Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.",
+    "explicacion": "Es la referencia internacional directa para vida, libertad y seguridad personal dentro de la Declaración Universal."
+  },
+  {
+    "documento": "Declaración Universal de Derechos Humanos",
+    "articulo": "7",
+    "titulo": "Igualdad ante la ley",
+    "temas": [
+      "igualdad",
+      "ley",
+      "discriminación"
+    ],
+    "texto": "Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección de la ley.",
+    "explicacion": "Reconoce igualdad ante la ley y protección jurídica sin discriminación."
+  },
+  {
+    "documento": "Declaración Universal de Derechos Humanos",
+    "articulo": "18",
+    "titulo": "Libertad de pensamiento, conciencia y religión",
+    "temas": [
+      "libertad",
+      "conciencia",
+      "religión",
+      "pensamiento"
+    ],
+    "texto": "Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de religión.",
+    "explicacion": "Protege la libertad de pensamiento, conciencia y religión."
+  },
+  {
+    "documento": "Declaración Universal de Derechos Humanos",
+    "articulo": "19",
+    "titulo": "Libertad de opinión y expresión",
+    "temas": [
+      "libertad de expresión",
+      "opinión",
+      "información",
+      "prensa"
+    ],
+    "texto": "Todo individuo tiene derecho a la libertad de opinión y de expresión.",
+    "explicacion": "Reconoce el derecho a expresar opiniones y buscar, recibir y difundir informaciones e ideas."
+  },
+  {
+    "documento": "Declaración Universal de Derechos Humanos",
+    "articulo": "23",
+    "titulo": "Trabajo",
+    "temas": [
+      "trabajo",
+      "empleo",
+      "igualdad salarial",
+      "libertad profesional"
+    ],
+    "texto": "Toda persona tiene derecho al trabajo, a la libre elección de su trabajo y a condiciones equitativas y satisfactorias de trabajo.",
+    "explicacion": "Reconoce derechos relacionados con trabajo, elección laboral y condiciones laborales."
+  },
+  {
+    "documento": "Declaración Universal de Derechos Humanos",
+    "articulo": "26",
+    "titulo": "Educación",
+    "temas": [
+      "educación",
+      "enseñanza",
+      "escuela"
+    ],
+    "texto": "Toda persona tiene derecho a la educación.",
+    "explicacion": "Reconoce la educación como derecho humano."
+  }
+]

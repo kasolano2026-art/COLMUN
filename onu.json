@@ -1,0 +1,112 @@
+[
+  {
+    "documento": "Carta de las Naciones Unidas",
+    "articulo": "Preámbulo",
+    "titulo": "Dignidad, igualdad y derechos fundamentales",
+    "temas": [
+      "dignidad",
+      "igualdad",
+      "derechos humanos",
+      "libertades"
+    ],
+    "texto": "El Preámbulo reafirma la fe en los derechos fundamentales, en la dignidad y el valor de la persona humana y en la igualdad de derechos de hombres y mujeres y de las naciones grandes y pequeñas.",
+    "explicacion": "El Preámbulo expresa principios generales que orientan la Carta, incluyendo dignidad e igualdad."
+  },
+  {
+    "documento": "Carta de las Naciones Unidas",
+    "articulo": "1",
+    "titulo": "Igualdad de derechos y derechos humanos",
+    "temas": [
+      "igualdad",
+      "derechos humanos",
+      "libertades fundamentales",
+      "paz",
+      "libre determinación"
+    ],
+    "texto": "Entre los propósitos de las Naciones Unidas están fomentar relaciones de amistad basadas en la igualdad de derechos y promover el respeto a los derechos humanos y las libertades fundamentales de todos.",
+    "explicacion": "La Carta establece como propósito de la ONU promover la igualdad de derechos, los derechos humanos y las libertades fundamentales."
+  },
+  {
+    "documento": "Carta de las Naciones Unidas",
+    "articulo": "2",
+    "titulo": "Igualdad soberana de los Estados",
+    "temas": [
+      "igualdad",
+      "igualdad soberana",
+      "soberanía",
+      "Estados",
+      "principios"
+    ],
+    "texto": "La Organización está basada en el principio de la igualdad soberana de todos sus Miembros.",
+    "explicacion": "Se refiere a la igualdad soberana entre los Estados miembros, no a un catálogo individual de derechos."
+  },
+  {
+    "documento": "Carta de las Naciones Unidas",
+    "articulo": "8",
+    "titulo": "Igualdad de hombres y mujeres en los órganos de la ONU",
+    "temas": [
+      "igualdad",
+      "hombres",
+      "mujeres",
+      "participación",
+      "ONU"
+    ],
+    "texto": "La Organización no establecerá restricciones en cuanto a la elegibilidad de hombres y mujeres para participar en condiciones de igualdad en las funciones de sus órganos principales y subsidiarios.",
+    "explicacion": "Establece igualdad de elegibilidad de hombres y mujeres para participar en las funciones de los órganos de la ONU."
+  },
+  {
+    "documento": "Carta de las Naciones Unidas",
+    "articulo": "13",
+    "titulo": "Derechos humanos y libertades fundamentales",
+    "temas": [
+      "derechos humanos",
+      "libertades",
+      "educación",
+      "cooperación"
+    ],
+    "texto": "La Asamblea General promoverá estudios y hará recomendaciones para fomentar la cooperación internacional y ayudar a hacer efectivos los derechos humanos y las libertades fundamentales de todos.",
+    "explicacion": "Atribuye a la Asamblea General funciones de promoción y recomendación relacionadas con derechos humanos y libertades."
+  },
+  {
+    "documento": "Carta de las Naciones Unidas",
+    "articulo": "55",
+    "titulo": "Derechos humanos, libertades y bienestar",
+    "temas": [
+      "derechos humanos",
+      "libertades fundamentales",
+      "igualdad",
+      "trabajo",
+      "salud",
+      "educación",
+      "desarrollo"
+    ],
+    "texto": "La Organización promoverá niveles de vida más elevados, trabajo permanente, progreso económico y social, cooperación cultural y educativa y el respeto universal a los derechos humanos y libertades fundamentales.",
+    "explicacion": "Establece objetivos de cooperación económica y social y promoción universal de derechos humanos y libertades."
+  },
+  {
+    "documento": "Carta de las Naciones Unidas",
+    "articulo": "56",
+    "titulo": "Cooperación para alcanzar los propósitos",
+    "temas": [
+      "cooperación",
+      "derechos humanos",
+      "ONU",
+      "Estados"
+    ],
+    "texto": "Todos los Miembros se comprometen a tomar medidas conjunta o separadamente, en cooperación con la Organización, para la realización de los propósitos consignados en el Artículo 55.",
+    "explicacion": "Compromete a los Estados miembros a cooperar para alcanzar los objetivos del artículo 55."
+  },
+  {
+    "documento": "Carta de las Naciones Unidas",
+    "articulo": "103",
+    "titulo": "Prevalencia de obligaciones de la Carta",
+    "temas": [
+      "tratados",
+      "obligaciones",
+      "ONU",
+      "derecho internacional"
+    ],
+    "texto": "En caso de conflicto entre las obligaciones contraídas por los Miembros de las Naciones Unidas en virtud de la Carta y sus obligaciones contraídas en virtud de cualquier otro convenio internacional, prevalecerán las obligaciones impuestas por la Carta.",
+    "explicacion": "Establece una regla de prevalencia para las obligaciones asumidas bajo la Carta frente a obligaciones de otros convenios internacionales."
+  }
+]

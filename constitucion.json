@@ -1,0 +1,312 @@
+[
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "1",
+    "titulo": "Estado social de derecho y dignidad humana",
+    "temas": [
+      "dignidad",
+      "estado social de derecho",
+      "igualdad",
+      "trabajo",
+      "solidaridad"
+    ],
+    "texto": "Colombia es un Estado social de derecho, organizado en forma de República unitaria, democrática, participativa y pluralista, fundado en el respeto de la dignidad humana, en el trabajo y la solidaridad.",
+    "explicacion": "Establece las bases del Estado colombiano y pone la dignidad humana entre sus fundamentos."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "2",
+    "titulo": "Fines esenciales del Estado",
+    "temas": [
+      "derechos",
+      "vida",
+      "libertad",
+      "protección",
+      "participación"
+    ],
+    "texto": "Son fines esenciales del Estado servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución.",
+    "explicacion": "Indica que las autoridades deben proteger a las personas y garantizar los derechos constitucionales."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "11",
+    "titulo": "Derecho a la vida",
+    "temas": [
+      "vida",
+      "derecho a la vida"
+    ],
+    "texto": "El derecho a la vida es inviolable. No habrá pena de muerte.",
+    "explicacion": "Protege la vida como un derecho constitucional fundamental."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "13",
+    "titulo": "Derecho a la igualdad",
+    "temas": [
+      "igualdad",
+      "discriminación",
+      "derecho a la igualdad",
+      "trato igual"
+    ],
+    "texto": "Todas las personas nacen libres e iguales ante la ley, recibirán la misma protección y trato de las autoridades y gozarán de los mismos derechos, libertades y oportunidades.",
+    "explicacion": "Reconoce la igualdad ante la ley y prohíbe tratos discriminatorios en los términos establecidos por la Constitución."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "16",
+    "titulo": "Libre desarrollo de la personalidad",
+    "temas": [
+      "libertad",
+      "personalidad",
+      "autonomía",
+      "libre desarrollo"
+    ],
+    "texto": "Todas las personas tienen derecho al libre desarrollo de su personalidad sin más limitaciones que las que imponen los derechos de los demás y el orden jurídico.",
+    "explicacion": "Protege la autonomía personal dentro de los límites constitucionales."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "18",
+    "titulo": "Libertad de conciencia",
+    "temas": [
+      "libertad",
+      "conciencia",
+      "creencias"
+    ],
+    "texto": "Se garantiza la libertad de conciencia. Nadie será molestado por razón de sus convicciones o creencias ni compelido a revelarlas ni obligado a actuar contra su conciencia.",
+    "explicacion": "Protege la libertad de las personas respecto de sus convicciones y conciencia."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "19",
+    "titulo": "Libertad de cultos",
+    "temas": [
+      "religión",
+      "libertad religiosa",
+      "culto",
+      "libertad"
+    ],
+    "texto": "Se garantiza la libertad de cultos. Toda persona tiene derecho a profesar libremente su religión y a difundirla en forma individual o colectiva.",
+    "explicacion": "Protege la libertad religiosa y de culto."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "20",
+    "titulo": "Libertad de expresión e información",
+    "temas": [
+      "libertad de expresión",
+      "expresión",
+      "opinión",
+      "información",
+      "prensa"
+    ],
+    "texto": "Se garantiza a toda persona la libertad de expresar y difundir su pensamiento y opiniones, la de informar y recibir información veraz e imparcial, y la de fundar medios masivos de comunicación.",
+    "explicacion": "Protege la expresión de pensamientos y opiniones y el derecho a informar y recibir información."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "23",
+    "titulo": "Derecho de petición",
+    "temas": [
+      "petición",
+      "derecho de petición",
+      "autoridades",
+      "respuesta"
+    ],
+    "texto": "Toda persona tiene derecho a presentar peticiones respetuosas a las autoridades por motivos de interés general o particular y a obtener pronta resolución.",
+    "explicacion": "Permite presentar solicitudes respetuosas a las autoridades y obtener una respuesta."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "25",
+    "titulo": "Derecho al trabajo",
+    "temas": [
+      "trabajo",
+      "empleo",
+      "laboral"
+    ],
+    "texto": "El trabajo es un derecho y una obligación social y goza, en todas sus modalidades, de la especial protección del Estado.",
+    "explicacion": "Reconoce el trabajo como derecho y establece protección estatal."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "26",
+    "titulo": "Libertad de profesión u oficio",
+    "temas": [
+      "profesión",
+      "oficio",
+      "trabajo",
+      "libertad profesional"
+    ],
+    "texto": "Toda persona es libre de escoger profesión u oficio.",
+    "explicacion": "Reconoce la libertad de escoger profesión u oficio, con las condiciones que establezca la ley."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "28",
+    "titulo": "Libertad personal",
+    "temas": [
+      "libertad personal",
+      "detención",
+      "libertad"
+    ],
+    "texto": "Toda persona es libre. Nadie puede ser molestado en su persona o familia, ni reducido a prisión o arresto, ni detenido, ni su domicilio registrado, sino en virtud de mandamiento escrito de autoridad judicial competente, con las formalidades legales y por motivo previamente definido en la ley.",
+    "explicacion": "Establece garantías frente a restricciones arbitrarias de la libertad personal."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "29",
+    "titulo": "Debido proceso",
+    "temas": [
+      "debido proceso",
+      "defensa",
+      "proceso",
+      "justicia",
+      "presunción de inocencia"
+    ],
+    "texto": "El debido proceso se aplicará a toda clase de actuaciones judiciales y administrativas.",
+    "explicacion": "Reconoce garantías fundamentales que deben respetarse en actuaciones judiciales y administrativas."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "37",
+    "titulo": "Derecho de reunión",
+    "temas": [
+      "reunión",
+      "manifestación",
+      "libertad"
+    ],
+    "texto": "Toda parte del pueblo puede reunirse y manifestarse pública y pacíficamente.",
+    "explicacion": "Protege la reunión y manifestación pública y pacífica en los términos constitucionales."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "40",
+    "titulo": "Participación política",
+    "temas": [
+      "participación",
+      "voto",
+      "política",
+      "elecciones",
+      "ciudadanía"
+    ],
+    "texto": "Todo ciudadano tiene derecho a participar en la conformación, ejercicio y control del poder político.",
+    "explicacion": "Reconoce derechos para participar en la vida política y controlar el poder público."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "48",
+    "titulo": "Seguridad social",
+    "temas": [
+      "seguridad social",
+      "salud",
+      "pensión",
+      "protección social"
+    ],
+    "texto": "La Seguridad Social es un servicio público de carácter obligatorio que se prestará bajo la dirección, coordinación y control del Estado.",
+    "explicacion": "Establece la seguridad social como servicio público sujeto a dirección y control estatal."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "49",
+    "titulo": "Salud y saneamiento ambiental",
+    "temas": [
+      "salud",
+      "derecho a la salud",
+      "sanidad",
+      "saneamiento"
+    ],
+    "texto": "La atención de la salud y el saneamiento ambiental son servicios públicos a cargo del Estado.",
+    "explicacion": "Reconoce la atención en salud y el saneamiento como servicios públicos y fija deberes estatales."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "58",
+    "titulo": "Propiedad privada",
+    "temas": [
+      "propiedad",
+      "propiedad privada",
+      "bienes"
+    ],
+    "texto": "Se garantizan la propiedad privada y los demás derechos adquiridos con arreglo a las leyes civiles, los cuales no pueden ser desconocidos ni vulnerados por leyes posteriores.",
+    "explicacion": "Reconoce y protege la propiedad privada dentro de su función social y ecológica."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "67",
+    "titulo": "Derecho a la educación",
+    "temas": [
+      "educación",
+      "derecho a la educación",
+      "enseñanza",
+      "escuela"
+    ],
+    "texto": "La educación es un derecho de la persona y un servicio público que tiene una función social.",
+    "explicacion": "Reconoce la educación como derecho y servicio público con función social."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "79",
+    "titulo": "Derecho a un ambiente sano",
+    "temas": [
+      "ambiente",
+      "medio ambiente",
+      "naturaleza",
+      "ambiente sano"
+    ],
+    "texto": "Todas las personas tienen derecho a gozar de un ambiente sano.",
+    "explicacion": "Reconoce el derecho colectivo a disfrutar de un ambiente sano."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "83",
+    "titulo": "Buena fe",
+    "temas": [
+      "buena fe",
+      "confianza",
+      "actuación"
+    ],
+    "texto": "Las actuaciones de los particulares y de las autoridades públicas deberán ceñirse a los postulados de la buena fe.",
+    "explicacion": "Establece la buena fe como principio que debe orientar las actuaciones de particulares y autoridades."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "86",
+    "titulo": "Acción de tutela",
+    "temas": [
+      "tutela",
+      "derechos fundamentales",
+      "protección judicial"
+    ],
+    "texto": "Toda persona tendrá acción de tutela para reclamar ante los jueces, en todo momento y lugar, mediante un procedimiento preferente y sumario, por sí misma o por quien actúe a su nombre, la protección inmediata de sus derechos constitucionales fundamentales.",
+    "explicacion": "Crea la acción de tutela como mecanismo judicial para la protección inmediata de derechos fundamentales."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "95",
+    "titulo": "Deberes de la persona y del ciudadano",
+    "temas": [
+      "deberes",
+      "ciudadanía",
+      "solidaridad",
+      "ley"
+    ],
+    "texto": "El ejercicio de las libertades y derechos reconocidos en esta Constitución implica responsabilidades.",
+    "explicacion": "Recuerda que los derechos constitucionales se ejercen junto con responsabilidades y deberes."
+  },
+  {
+    "documento": "Constitución Política de Colombia",
+    "articulo": "333",
+    "titulo": "Libertad económica y libre competencia",
+    "temas": [
+      "libre empresa",
+      "libertad de empresa",
+      "libertad económica",
+      "libre competencia",
+      "empresa",
+      "iniciativa privada"
+    ],
+    "texto": "La actividad económica y la iniciativa privada son libres, dentro de los límites del bien común. La libre competencia es un derecho de todos que supone responsabilidades.",
+    "explicacion": "Reconoce la libertad económica y la iniciativa privada, dentro de los límites constitucionales y legales."
+  }
+]
