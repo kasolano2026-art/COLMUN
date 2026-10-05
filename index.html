@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#111111">
+  <meta name="description" content="COLMUN - buscador educativo de Constitución, Carta ONU y derechos humanos.">
+  <title>COLMUN</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">⚖️ COLMUN</div>
+  <div class="top-actions">
+    <button id="themeBtn" class="icon-btn" title="Cambiar tema">🌙</button>
+    <button id="installBtn" class="small-btn hidden">📲 Instalar</button>
+  </div>
+</header>
+
+<main class="container">
+  <section class="hero">
+    <span class="badge">ASISTENTE JURÍDICO EDUCATIVO</span>
+    <h1>Encuentra la norma que necesitas</h1>
+    <p>Describe un derecho, principio o tema con tus propias palabras y COLMUN buscará artículos relacionados.</p>
+  </section>
+
+  <section class="source-grid" aria-label="Fuentes jurídicas">
+    <button class="source-card active" data-source="constitucion">
+      <span class="source-icon">🇨🇴</span>
+      <span><b>Constitución Política</b><small>Colombia</small></span>
+    </button>
+    <button class="source-card" data-source="onu">
+      <span class="source-icon">🌎</span>
+      <span><b>Carta de las Naciones Unidas</b><small>ONU</small></span>
+    </button>
+    <button class="source-card" data-source="ddhh">
+      <span class="source-icon">🌐</span>
+      <span><b>Declaración Universal</b><small>Derechos Humanos</small></span>
+    </button>
+  </section>
+
+  <section class="search-panel">
+    <div class="search-row">
+      <span class="search-icon">🔎</span>
+      <input id="searchInput" type="search" placeholder="Ej.: ¿qué protege el derecho a la igualdad?" autocomplete="off">
+      <button id="searchBtn" class="primary-btn">Buscar</button>
+    </div>
+    <div class="quick-searches">
+      <button data-query="derecho a la vida">Vida</button>
+      <button data-query="derecho a la igualdad">Igualdad</button>
+      <button data-query="libre empresa">Libre empresa</button>
+      <button data-query="libertad de expresión">Expresión</button>
+      <button data-query="derecho a la educación">Educación</button>
+      <button data-query="derecho a la salud">Salud</button>
+    </div>
+  </section>
+
+  <section class="toolbar">
+    <button class="tab active" data-view="search">🔎 Buscar</button>
+    <button class="tab" data-view="favorites">⭐ Favoritos <span id="favCount">0</span></button>
+    <button class="tab" data-view="history">🕘 Historial</button>
+  </section>
+
+  <section id="status" class="status">Selecciona una fuente y realiza una búsqueda.</section>
+  <section id="results" class="results"></section>
+
+  <section id="empty" class="empty">
+    <div>⚖️</div>
+    <h2>Tu buscador jurídico</h2>
+    <p>Prueba con una pregunta como “¿qué artículo protege la igualdad?”</p>
+  </section>
+
+  <section class="info-grid">
+    <article>
+      <h3>🧠 Búsqueda inteligente</h3>
+      <p>Reconoce palabras relacionadas y sinónimos para encontrar normas aunque no uses exactamente el nombre del derecho.</p>
+    </article>
+    <article>
+      <h3>📌 Resultado claro</h3>
+      <p>Muestra fuente, artículo, texto, temas y una explicación educativa separada del texto oficial.</p>
+    </article>
+    <article>
+      <h3>🔗 Fuente oficial</h3>
+      <p>Cada documento incluye un enlace para comprobar la información en la fuente correspondiente.</p>
+    </article>
+  </section>
+
+  <section class="disclaimer">
+    <b>⚠️ Aviso</b>
+    <p>COLMUN es una herramienta educativa de consulta. La explicación automática no sustituye asesoría jurídica profesional. Verifica siempre el texto y la vigencia en la fuente oficial.</p>
+  </section>
+</main>
+
+<footer>
+  <b>COLMUN</b>
+  <span>Herramienta educativa de consulta jurídica</span>
+  <span id="version">Versión 1.0.0</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
